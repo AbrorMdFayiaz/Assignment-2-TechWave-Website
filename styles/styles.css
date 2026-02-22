@@ -717,6 +717,7 @@ main{
 #host>article>div>div{
     display: flex;
     gap: .5rem;
+    
 
     justify-content: center;
 }
@@ -771,8 +772,6 @@ footer>p{
     font-size: 1rem;
 
 
-
-
     /*     #4.   issue temporarily solved */
     margin-top: 24px;
     margin-bottom: 20px;
@@ -782,7 +781,6 @@ footer>div>article>p{
     font-size: 1rem;
 }
 }
-
 /* @import "tailwindcss" */
 .hide{
     display:none;
